@@ -1,0 +1,17 @@
+.pagination li {
+  margin-right: 20px;
+}
+.pagination {
+  margin-top: 40px;
+}
+.pagination li a:hover {
+  cursor: pointer;
+  background-color: rgb(24, 158, 255);
+}
+.pagination li a {
+  color: rgb(51, 51, 51);
+  font-weight: 500;
+}
+.page-link:hover {
+  background-color: rgb(24, 158, 255);
+}

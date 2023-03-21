@@ -1,0 +1,17 @@
+.items-image {
+  display: flex;
+
+  top: 10px;
+}
+.items-image > .image_id {
+  margin-bottom: 20px;
+}
+.image_name {
+  font-weight: 500;
+}
+.row > .description {
+  padding-left: 100px;
+}
+.table-striped {
+  width: 2000px;
+}

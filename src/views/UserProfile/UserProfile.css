@@ -1,0 +1,23 @@
+h1 {
+  color: red;
+}
+.avatar {
+  width: 15%;
+  border-radius: 50%;
+}
+.change_pass > a {
+  color: #000;
+}
+
+.change_pass > a:hover {
+  color: red;
+}
+
+.form-group > input {
+  width: 70%;
+}
+
+.form-group > label {
+  color: #000;
+  font-weight: 500;
+}

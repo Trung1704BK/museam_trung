@@ -1,0 +1,14 @@
+.table-bordered,
+tr,
+th {
+  border: 2px solid red;
+}
+.tr-head {
+  border: 2px solid red;
+}
+.table thead th {
+  border: 2px solid red;
+}
+.table-bordered td {
+  border: 1px solid red;
+}
